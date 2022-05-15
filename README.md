@@ -6,7 +6,7 @@ services provided by the department.
 
 The following applies to all Defence Digital Foundry services.
 
-[Defence Digital Foundry -Security Operating Procedures](test.pdf)
+[Defence Digital Foundry -Security Operating Procedures](Defence Digital Foundry - Security Operating Procedures.pdf)
 
  Version | Date | Change Notes
 --- | --- | ---
