@@ -1,7 +1,7 @@
 # Security Operating Procedures (SyOPs)
 ## Ministry of Defence - Defence Digital Foundry
 
-Security Operations Procedures (SyOPS) are instructions on how to use the
+Security Operating Procedures (SyOPS) are instructions on how to use the
 services provided by the department.
 
 The following applies to all Defence Digital Foundry services.
